@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hr-auto-body-demo.thewateringhole-team.workers.dev/sitemap.xml

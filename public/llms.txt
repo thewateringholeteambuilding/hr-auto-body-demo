@@ -1,0 +1,24 @@
+# HR Auto Body
+> Collision repair, auto paint, and frame work in Indianapolis, IN.
+
+## Services
+- Collision Repair
+- Auto Paint & Color Match
+- Frame Straightening
+- Dent & Bumper Repair
+- Auto Glass Replacement
+- Headlight Restoration
+- Detail & Final Finish
+
+## Pages
+- Home: /
+- About: /about
+- Services: /services
+- Gallery: /gallery
+- Free Estimate: /estimate
+- Legal: /legal
+
+## Contact
+- Phone: (317) 555-0188
+- Address: 437 E Hanna Ave, Indianapolis, IN 46227
+- Hours: Mon-Fri 8 AM-5:30 PM, Sat 9 AM-1 PM

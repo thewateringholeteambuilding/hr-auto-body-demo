@@ -1,0 +1,265 @@
+{
+  "business": {
+    "name": "HR Auto Body",
+    "shortName": "HR Auto Body",
+    "tagline": "4.9 stars from 136 Google reviews. Collision repair on E Hanna Ave, Indianapolis.",
+    "phone": "(317) 555-0188",
+    "phoneHref": "tel:+13175550188",
+    "email": "info@hrautobody.com",
+    "address": {
+      "street": "437 E Hanna Ave",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46227",
+      "full": "437 E Hanna Ave, Indianapolis, IN 46227"
+    },
+    "hours": {
+      "weekday": "Mon to Fri, 8 AM to 5:30 PM",
+      "saturday": "Sat, 9 AM to 1 PM",
+      "sunday": "Sun, Closed"
+    },
+    "mapQuery": "437+E+Hanna+Ave+Indianapolis+IN+46227",
+    "rating": "4.9",
+    "reviewCount": "136"
+  },
+  "insurance": [
+    "State Farm",
+    "GEICO",
+    "Allstate",
+    "Progressive",
+    "USAA",
+    "Farmers",
+    "Liberty Mutual",
+    "Erie Insurance"
+  ],
+  "certifications": [
+    "I-CAR Gold Class",
+    "ASE Master Certified",
+    "PPG Certified Refinish Center",
+    "EPA & OSHA Compliant"
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Estimate",
+      "body": "Drive in or send photos. Detailed written estimate within 24 hours. No charge."
+    },
+    {
+      "step": "02",
+      "title": "Insurance",
+      "body": "We file the claim, talk to the adjuster, and handle every form. You drop off the keys."
+    },
+    {
+      "step": "03",
+      "title": "Repair",
+      "body": "OEM parts when available. Text updates daily. No scope changes without your approval."
+    },
+    {
+      "step": "04",
+      "title": "Pickup",
+      "body": "Washed, detailed, and inspected. Before-and-after photos in hand. Lifetime warranty in writing."
+    }
+  ],
+  "services": [
+    {
+      "title": "Collision Repair",
+      "body": "From fender bends to full structural rebuilds. Panel replacement, structural alignment, and factory-spec restoration. Lifetime workmanship warranty on every job.",
+      "ideal": "Insurance claims, accident damage, fleet vehicles"
+    },
+    {
+      "title": "Auto Paint & Color Match",
+      "body": "Computerized color matching in a downdraft spray booth. PPG basecoat and clearcoat system, blended through adjacent panels so the repair disappears.",
+      "ideal": "Paint restoration, faded panels, full resprays"
+    },
+    {
+      "title": "Frame Straightening",
+      "body": "Laser-guided frame machine measures against factory specifications. Straightened, documented, and verified with a printout you keep.",
+      "ideal": "Heavy collision, unibody pulls, structural damage"
+    },
+    {
+      "title": "Dent & Bumper Repair",
+      "body": "Paintless dent repair when the finish allows it. Full refinish when it doesn't. We tell you which approach applies before any work starts.",
+      "ideal": "Hail damage, door dings, parking lot scrapes"
+    },
+    {
+      "title": "Auto Glass Replacement",
+      "body": "Windshield, side glass, and rear window. We coordinate the insurance call so you deal with one shop, not two.",
+      "ideal": "Rock chips, cracked windshield, side window replacement"
+    },
+    {
+      "title": "Headlight Restoration",
+      "body": "Yellowed lenses sanded, polished, and UV-sealed. Restores nighttime visibility and passes Indiana inspection.",
+      "ideal": "Cloudy headlights, inspection prep, cosmetic refresh"
+    },
+    {
+      "title": "Detail & Final Finish",
+      "body": "Post-repair detail on every vehicle that leaves the shop. Exterior wash, interior vacuum, and a final inspection before handoff.",
+      "ideal": "Post-repair cleanup, paint correction, showroom finish"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=800&q=80",
+      "title": "Finished sedan, showroom condition",
+      "caption": "Complete collision repair and refinish. Color-matched and polished to factory spec."
+    },
+    {
+      "id": "g2",
+      "image": "https://images.unsplash.com/photo-1625047509248-ec889cbff17f?auto=format&fit=crop&w=800&q=80",
+      "title": "Downdraft spray booth",
+      "caption": "Controlled environment for dust-free paint application. Temperature and humidity monitored throughout."
+    },
+    {
+      "id": "g3",
+      "image": "https://plus.unsplash.com/premium_photo-1682142351785-950b1ffb4a74?auto=format&fit=crop&w=800&q=80",
+      "title": "Refinish technician at work",
+      "caption": "PPG basecoat application. Color verified under three light sources before clearcoat."
+    },
+    {
+      "id": "g4",
+      "image": "https://images.unsplash.com/photo-1702146713858-8e7d1cc29fe8?auto=format&fit=crop&w=800&q=80",
+      "title": "Undercarriage inspection",
+      "caption": "On the lift checking structural components after collision. Hidden damage documented before reassembly."
+    },
+    {
+      "id": "g5",
+      "image": "https://images.unsplash.com/photo-1676035291793-645c307e5a4e?auto=format&fit=crop&w=800&q=80",
+      "title": "Panel prep and bodywork",
+      "caption": "Straightening and prepping metal panels before primer. Every surface sanded to spec."
+    },
+    {
+      "id": "g6",
+      "image": "https://plus.unsplash.com/premium_photo-1661920401227-90c26cf05e39?auto=format&fit=crop&w=800&q=80",
+      "title": "Polishing after clearcoat",
+      "caption": "Final polish along a repaired quarter panel. Micro-scratches removed for a glass-smooth finish."
+    },
+    {
+      "id": "g7",
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
+      "title": "Luxury vehicle restoration",
+      "caption": "High-end refinish and detail work. Matching metallic paint on complex curves requires steady hands."
+    },
+    {
+      "id": "g8",
+      "image": "https://images.unsplash.com/photo-1735225147776-4abd5d71f983?auto=format&fit=crop&w=800&q=80",
+      "title": "Tech in the bay",
+      "caption": "Hands-on collision repair. Every technician is I-CAR or ASE certified."
+    },
+    {
+      "id": "g9",
+      "image": "https://plus.unsplash.com/premium_photo-1661297493012-f17c3da83d7e?auto=format&fit=crop&w=800&q=80",
+      "title": "Spray booth, protective gear",
+      "caption": "Full safety gear in the booth. PPG system with downdraft ventilation and filtered air."
+    },
+    {
+      "id": "g10",
+      "image": "https://images.unsplash.com/photo-1786489785858-b64715400a37?auto=format&fit=crop&w=800&q=80",
+      "title": "Rear panel sanding",
+      "caption": "Feathering the edges before primer. Smooth prep for an invisible repair line."
+    },
+    {
+      "id": "g11",
+      "image": "https://plus.unsplash.com/premium_photo-1664299634979-c60ae4884392?auto=format&fit=crop&w=800&q=80",
+      "title": "Finish compound polishing",
+      "caption": "Final finishing compound pass. Factory-smooth result ready for customer walkthrough."
+    },
+    {
+      "id": "g12",
+      "image": "https://plus.unsplash.com/premium_photo-1750828974315-2fd42b20cb0f?auto=format&fit=crop&w=800&q=80",
+      "title": "Engine bay inspection",
+      "caption": "Mechanical and structural check during collision repair. Nothing reassembled until every system is verified."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Someone sideswiped my Accord in a parking garage. HR Auto Body handled the State Farm claim from start to finish. Five days later the car looked brand new. Could not find the repair line anywhere.",
+      "author": "Briana C.",
+      "detail": "Honda Accord, sideswipe, 5-day turnaround",
+      "date": "September 2025",
+      "source": "Google"
+    },
+    {
+      "quote": "Third time bringing a vehicle here. This time it was my daughter's Corolla after she got rear-ended on Meridian. Same thorough process every time.",
+      "author": "Kevin R.",
+      "detail": "Toyota Corolla, rear-end collision, repeat customer",
+      "date": "July 2025",
+      "source": "Google"
+    },
+    {
+      "quote": "Hail storm caught my F-150 in the Greenwood area. They did paintless dent repair on the roof and hood, refinished the fenders. Insurance covered the whole thing.",
+      "author": "Tamara J.",
+      "detail": "Ford F-150, hail damage, PDR + refinish",
+      "date": "May 2025",
+      "source": "Google"
+    },
+    {
+      "quote": "Got hit on I-65 and the frame was bent. They showed me the before-and-after measurements on the laser printout. Everything back to factory spec. Drove it home same day as pickup.",
+      "author": "Miguel S.",
+      "detail": "Chevy Malibu, frame damage, I-65 accident",
+      "date": "March 2025",
+      "source": "Google"
+    },
+    {
+      "quote": "Two estimates from other shops were higher and less detailed. HR wrote every line item, explained what gets replaced vs. repaired, and beat both prices.",
+      "author": "Diana L.",
+      "detail": "Front bumper + fender, insurance claim",
+      "date": "January 2025",
+      "source": "Google"
+    },
+    {
+      "quote": "They coordinated my USAA claim and had Enterprise drop off a rental the same morning. Picked up my Highlander eight days later with a full detail included.",
+      "author": "James P.",
+      "detail": "Toyota Highlander, USAA claim, 8-day turnaround",
+      "date": "November 2024",
+      "source": "Google"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you handle the insurance paperwork?",
+      "a": "Yes. We file the claim, coordinate with your adjuster, and bill the carrier directly. You drop off the vehicle and pick it up when it is ready. Zero calls to the insurance company on your end."
+    },
+    {
+      "q": "How long does a typical repair take?",
+      "a": "Most standard collision repairs take 3 to 8 business days. Frame work or full repaints can run 10 to 14 days. We give you a timeline in writing before any work starts, and we call if anything changes."
+    },
+    {
+      "q": "Is the estimate really free?",
+      "a": "Yes. Drive in during business hours or send photos online. We write a detailed, itemized estimate at no charge. No appointment required for in-person estimates."
+    },
+    {
+      "q": "What does the lifetime warranty cover?",
+      "a": "Every repair is backed by a written lifetime workmanship warranty for as long as you own the vehicle. If anything we repaired fails, we fix it at no charge. The warranty transfers if you sell the car."
+    },
+    {
+      "q": "Can I pay cash instead of going through insurance?",
+      "a": "Yes. We do out-of-pocket repairs at flat pricing. You see the full cost before we start. Many customers go this route for minor cosmetic work like bumper scrapes or parking lot dings."
+    },
+    {
+      "q": "Do you arrange rental cars?",
+      "a": "We coordinate with Enterprise for rental pickup on the day you drop off your vehicle. If your policy covers a rental, we help get that set up during your first visit."
+    },
+    {
+      "q": "Will my factory warranty stay valid after repair?",
+      "a": "Yes. We use OEM or OEM-equivalent parts and follow manufacturer repair procedures. A certified collision repair does not void your factory warranty under the Magnuson-Moss Warranty Act."
+    }
+  ],
+  "team": [
+    {
+      "name": "Shop Owner",
+      "role": "Owner & Lead Estimator",
+      "blurb": "Walks every estimate in person. Knows every major Indiana insurer's claims process inside and out."
+    },
+    {
+      "name": "Lead Body Tech",
+      "role": "I-CAR Gold Certified",
+      "blurb": "Structural and heavy collision specialist. Frame pulls, unibody work, and the repairs where tolerances are measured in millimeters."
+    },
+    {
+      "name": "Lead Painter",
+      "role": "PPG Certified Refinish",
+      "blurb": "Runs the spray booth. Checks every color match under daylight, fluorescent, and LED before the clearcoat goes on."
+    }
+  ]
+}
